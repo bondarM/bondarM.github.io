@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.bf8067c8.css","mappings":"AAAA,mCAGE,eAFA,SACA,SACA","sources":["App.scss"],"sourcesContent":["body, h1, h2, h3, h4, p, div, span, strong {\n  margin: 0;\n  padding: 0;\n  font-size: 44px;\n}"],"names":[],"sourceRoot":""}
